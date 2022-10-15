@@ -40,6 +40,10 @@ This repository contains everything you need to become tech interview Ready with
 
 # Most Important Data Structures and techniques - with important techniques and tips how to solve questions fast
 
+[What's important to know in Data Structures and Algorithms?](https://medium.com/coders-mojo/day-1-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-965e860ec677?sk=aa49bdbc46a72f600cb51774f0aea6b6)
+
+[Strategy : Solve any Data Structure and Algorithms Question with this Template](https://medium.com/coders-mojo/day-2-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-68bf016bb615?sk=a6d770b5472a96c224c4f9257d839e16)
+
 [Complexity Analysis](https://medium.com/coders-mojo/day-4-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-83d4c90d9115?sk=8ab3d284915f8f28534651d1c9cf41e5)
 
 [Backtracking](https://medium.com/coders-mojo/day-5-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-backtracking-f7de93dbe72d?sk=08c8ce11404387e46fdd73013aec267f)
