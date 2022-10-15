@@ -1,4 +1,6 @@
 # Tech-Interview : Important Topics and Techniques
+Developed by : Senior Software Engineer
+
 This repository contains everything you need to become tech interview Ready with most important tips and techniques
 
 # System Design Case Studies
