@@ -2,7 +2,7 @@
 
 This repository contains everything you need to become tech interview Ready with most important tips and techniques
 
-Developed by : Sr. SDE
+Developed by : Sr. Software Engineer
 
 # System Design Case Studies
 
