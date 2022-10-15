@@ -4,7 +4,7 @@ This repository contains everything you need to become tech interview Ready with
 
 Developed by : Sr. Software Engineer
 
-# System Design Case Studies
+# Solved System Design Case Studies
 
 [Design Tinder](https://medium.com/coders-mojo/day-16-of-system-design-case-studies-series-design-tinder-a0867163f449?sk=6313f0b9760c3d78a17443a98bdb3330)
 
