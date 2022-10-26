@@ -77,7 +77,7 @@ Developed by : Sr. Software Engineer
 
 [Recursion](https://medium.com/coders-mojo/day-9-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-recursion-ed6f7f41742?sk=bf98ce6abdb3e3f2fa71213c6ed8caa9)
 
-# System Design Basics - 11 Most Important System Design Concepts to know 
+# System Design Basics -  11 Most Important System Design Concepts to know 
 
 1. [System design basics](https://medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc)
 
