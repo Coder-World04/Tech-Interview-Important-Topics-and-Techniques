@@ -10,7 +10,7 @@ Developed by : Sr. Software Engineer
 
 [Design Messenger App](https://medium.com/coders-mojo/day-5-of-system-design-case-studies-series-design-messenger-app-7b73c589f4a?sk=4a53b122e8f02836c17fa35622aa0309)
 
-[Design Instagram](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
+[Design Instagram ](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
 
 [Design Twitter](https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c?sk=cdfc23d38edd5f48dc30efdcc0801c3e)
 
