@@ -41,7 +41,7 @@ Developed by : Sr. Software Engineer
 [Complete System Design Basics Series](https://medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc?sk=f72cc209adf149b0f0d887fc12acad25)
 
 
-# Most Important Data Structures and techniques - with important techniques and tips how to solve questions fast
+# Most Important Data Structures and techniques -- with important techniques and tips how to solve questions fast
 
 [What's important to know in Data Structures and Algorithms?](https://medium.com/coders-mojo/day-1-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-965e860ec677?sk=aa49bdbc46a72f600cb51774f0aea6b6)
 
