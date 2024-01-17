@@ -4,6 +4,24 @@ This repository contains everything you need to become tech interview Ready with
 
 Developed by: Sr.Software Engineer
 
+[Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[Mega Launch - 200+ System Design Case Studies](https://open.substack.com/pub/naina0405/p/mega-launch-200-new-system-design?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[System Design Most Important Terms](https://medium.com/coders-mojo/day-19-of-system-design-series-system-design-important-terms-45002fbbb789?sk=dab9718bca1b3676f093a759c89dea2c)
+
+[System Design Template](https://medium.com/coders-mojo/day-3-of-system-design-case-studies-series-875df4b766b9?sk=1133c9135f849f4497400a6b9caf5c2e)
+
+[Complete System Design Case Studies ](https://medium.com/coders-mojo/day-1-of-system-design-case-studies-series-b3c3fecae079?sk=ee7333918f135e06eb3a9b9434d35696) 
+
+[How to solve any System Design Question ( approach that you should take)](https://medium.com/coders-mojo/day-2-of-system-design-case-studies-series-ccd8899c6e6b?sk=9e95d3979ac4f995dec397c49ab8e05d)
+
+[ML System Design Case Studies Series](https://bit.ly/3i5EDiH)
+
+For Data Structures and Algorithms, start here : [Day 1 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-1-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-965e860ec677?sk=aa49bdbc46a72f600cb51774f0aea6b6)
+
+----------
+
 # Solved System Design Case Studies
 
 [Design Tinder](https://medium.com/coders-mojo/day-16-of-system-design-case-studies-series-design-tinder-a0867163f449?sk=6313f0b9760c3d78a17443a98bdb3330)
